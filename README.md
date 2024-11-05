@@ -160,7 +160,7 @@ python main.py
 3. Game ends if you collide with a car.
 
 ## 🖼️ Game Preview
-![image](https://github.com/user-attachments/assets/56d151af-b3a7-4a37-8656-d0d7cfb0bf07)
+<img src="https://github.com/user-attachments/assets/56d151af-b3a7-4a37-8656-d0d7cfb0bf07" alt="Game Preview" width="400"/>
 
 
 
